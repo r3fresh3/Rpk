@@ -1,0 +1,11 @@
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\bin\Debug\Timer.exe.config
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\bin\Debug\Timer.exe
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\bin\Debug\Timer.pdb
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\obj\Debug\Timer.csproj.SuggestedBindingRedirects.cache
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\obj\Debug\Timer.Form1.resources
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\obj\Debug\Timer.exe
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Timer\Timer\obj\Debug\Timer.pdb
